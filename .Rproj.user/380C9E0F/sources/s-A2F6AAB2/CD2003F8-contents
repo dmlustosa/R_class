@@ -1,0 +1,20 @@
+getwd
+getwd()
+dri()
+dir()
+setwd("~/R_test")
+myfunction <- function(x) {
+y <- rnorm(100)
+mean(y)
+}
+ls()
+myfunction()
+View(myfunction)
+source(test)
+source(test)
+setwd("~/Desktop/R_class/Scripts")
+source(test)
+source("test.R")
+second(4)
+second(4)
+second(4)
